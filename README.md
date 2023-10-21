@@ -22,3 +22,6 @@ Feel free to contribute to this repo by creating or editing programs in any prog
 7. Create a Pull Request.
 
 Congratulations! You've made your contribution. Your pull request will be accepted soon.
+
+
+#### *Note: Please add code to their respective extension directory.
